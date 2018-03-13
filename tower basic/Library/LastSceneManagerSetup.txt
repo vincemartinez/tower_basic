@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Standard Assets/tower basic/Basic scene 1.unity
+  isLoaded: 1
+  isActive: 1
